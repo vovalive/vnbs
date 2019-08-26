@@ -1,5 +1,4 @@
 +++
-draft = true
 
 +++
 ## de novo assembly
