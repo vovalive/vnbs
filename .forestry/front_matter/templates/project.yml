@@ -3,5 +3,6 @@ label: project
 hide_body: false
 fields: []
 pages:
+- content/rnaseq.md
 - content/exogenome.md
 - content/smallrnaseq.md
